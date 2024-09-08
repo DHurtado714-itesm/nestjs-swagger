@@ -27,13 +27,11 @@ Ensure you have the following installed:
    cd nestjs-swagger-route-filter
    ```
 
-````
-
 2. Install the dependencies:
 
- ```bash
- pnpm install
-````
+```bash
+pnpm install
+```
 
 3. Start the application:
 
