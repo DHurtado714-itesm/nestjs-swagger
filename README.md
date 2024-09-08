@@ -22,10 +22,10 @@ Ensure you have the following installed:
 
 1. Clone the repository:
 
-   ```bash
-   git clone https://github.com/your-repo/nestjs-swagger-route-filter.git
-   cd nestjs-swagger-route-filter
-   ```
+```bash
+git clone https://github.com/your-repo/nestjs-swagger-route-filter.git
+cd nestjs-swagger-route-filter
+```
 
 2. Install the dependencies:
 
@@ -35,9 +35,9 @@ pnpm install
 
 3. Start the application:
 
-   ```bash
-    pnpm run start:dev
-   ```
+```bash
+pnpm run start:dev
+```
 
 The server will start at `http://localhost:3000` by default.
 
